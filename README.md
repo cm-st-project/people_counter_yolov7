@@ -1,4 +1,5 @@
-# yolov7_tutorial
+# yolov7_people_counter
+
 
 This repository is an example of YOLOv7.  Where we download the pre-trained YOLOv7 from PyTorch Hub and perform object detection on sample images.
 
@@ -7,5 +8,4 @@ YOLO (You Look Only Once) is a well-known name for object detection. Joseph Redm
 ```
 pip install -r requirements.txt
 ```
-## Note:
-Create a directory called "models" and Download the pretrained model from here: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
+
